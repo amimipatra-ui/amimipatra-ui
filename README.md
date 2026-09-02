@@ -32,19 +32,16 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-┌───────────────────────────────────────────────────────────────┐
-│ merely into systems programming                               │
-│ currently building a POSIX shell in C++                       │
-└───────────────────────────────────────────────────────────────┘
+geet
+├── merely into systems programming
+└── currently building a POSIX shell in C++
 
-┌───────────────────────────────────────────────────────────────┐
-│ $ languages   : .cpp, .c                                      │
-│ $ concepts    : process-management, signal-handling, ipc      │
-│ $ devops      : BASH$                                         │
-│ $ os          : Arch Linux, macOS                             │
-└───────────────────────────────────────────────────────────────┘
+stack
+├── languages   : .cpp, .c
+├── concepts    : process management, signal handling, ipc
+├── devops      : BASH$
+└── os          : Arch Linux, macOS
 
-┌───────────────────────────────────────────────────────────────┐
-│ check out POSIX-shell -> github.com/amimipatra-ui/POSIX-shell │
-│ reach me : x.com/kamemochino                                  │
-└───────────────────────────────────────────────────────────────┘
+links
+├── check out POSIX-shell -> github.com/amimipatra-ui/POSIX-shell
+└── reach me : x.com/kamemochino
