@@ -33,7 +33,7 @@
 
 geet
 ├── merely into systems programming
-└── currently building a posix shell in c++
+└── currently building a POSIX shell in C++
 
 stack
 ├── languages   : .cpp, .c
