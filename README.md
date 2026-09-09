@@ -44,6 +44,6 @@
 
 ┌────────────────────────────────────────┐
 │ repo  : POSIX-shell                    │
-│ reach : x.com/kamemochino              │
+│ reach : amimipatra@gmail.com           │
 └────────────────────────────────────────┘
 ```
