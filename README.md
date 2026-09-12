@@ -36,7 +36,7 @@
 └────────────────────────────────────────┘
 
 ┌────────────────────────────────────────┐
-│ languages : .cpp, .c .py               │
+│ languages : .cpp, .c .py .js           │
 │ concepts  : process mgmt, signals, ipc │
 │ devops    : BASH$                      │
 │ os        : Arch Linux, macOS          │
